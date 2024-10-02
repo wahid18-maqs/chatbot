@@ -29,7 +29,7 @@ This project is a chatbot web application that leverages **Microsoft DialoGPT**,
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wahid18-maqs/chatbot.git
    ```
 
 2. Navigate to the project directory:
