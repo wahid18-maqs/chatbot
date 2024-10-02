@@ -21,6 +21,7 @@ This project is a chatbot web application that leverages **Microsoft DialoGPT**,
 - **jQuery for HTTP Requests**: jQuery is used to manage asynchronous HTTP requests between the front-end and back-end.
 
 ## Screenshot
+![chatbot](https://github.com/user-attachments/assets/81bf0a2f-7258-4744-8ad2-4863e0440186)
 
     
 
