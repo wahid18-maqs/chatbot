@@ -3,12 +3,12 @@ body, html {
     margin: 0;
 }
 
-
+      
 .dark-mode {
-    background: rgb(44, 47, 59);
-    background: linear-gradient(to right, rgb(38, 51, 61), rgb(50, 55, 65), rgb(33, 33, 78));
+    background: linear-gradient(to right, #26333D, #323741, #21214E);    
     color: white;
 }
+
 
 
 .light-mode {
